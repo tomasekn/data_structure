@@ -1,4 +1,4 @@
-# Zaimplementuj w języku `Python`, korzystając z filozofii TDD, listę jednokierunkową z następującymi operacjami:
+# Zaimplementuj w języku `Python` listę jednokierunkową z następującymi operacjami:
 # * `insert` - wstawiającą element do listy
 # * `delete` - usuwającą element z listy
 # * `isempty` – sprawdzającą czy lista jest pusta;
